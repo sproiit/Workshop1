@@ -1343,7 +1343,7 @@ Transform:
   m_GameObject: {fileID: 690433761}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.9659258, w: 0.2588191}
-  m_LocalPosition: {x: -1.92, y: -0.43, z: 0}
+  m_LocalPosition: {x: -1.968, y: -0.612, z: 0}
   m_LocalScale: {x: 1.7767648, y: 0.25, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1951,7 +1951,7 @@ Transform:
   m_GameObject: {fileID: 1031585181}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.2588191, w: 0.9659258}
-  m_LocalPosition: {x: 1.181, y: -0.397, z: 0}
+  m_LocalPosition: {x: 1.181, y: -0.215, z: 0}
   m_LocalScale: {x: 1.7477474, y: 0.25, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3081,37 +3081,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!1 &1358781054
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1358781055}
-  m_Layer: 0
-  m_Name: Destroyable Wall
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1358781055
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1358781054}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.36262, y: 2.23208, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1359676566
 GameObject:
   m_ObjectHideFlags: 0
@@ -3180,7 +3149,7 @@ Transform:
   m_GameObject: {fileID: 1396730949}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.141, y: -0.882, z: 0}
+  m_LocalPosition: {x: -1.1890001, y: -1.0639999, z: 0}
   m_LocalScale: {x: 0.25, y: 0.25, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3837,8 +3806,8 @@ Transform:
   m_GameObject: {fileID: 1613913467}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 1.87, y: 2.4014, z: 0}
-  m_LocalScale: {x: 4.9860682, y: 0.25, z: 1}
+  m_LocalPosition: {x: 1.87, y: 2.5166, z: 0}
+  m_LocalScale: {x: 4.7557116, y: 0.25, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 592646259}
@@ -3975,7 +3944,7 @@ Transform:
   m_GameObject: {fileID: 1632177568}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.429, y: -0.829, z: 0}
+  m_LocalPosition: {x: 0.429, y: -0.64699984, z: 0}
   m_LocalScale: {x: 0.25, y: 0.25, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4724,5 +4693,4 @@ SceneRoots:
   - {fileID: 1211149987}
   - {fileID: 1542650218}
   - {fileID: 329307822}
-  - {fileID: 1358781055}
   - {fileID: 1359676567}
